@@ -20,12 +20,20 @@
     height: 42px;
 
     margin: 2rem 2rem;
+
+    transition: 0.5s;
 }
+
+.rodape__midia:hover {
+    transform: translateY(-1.2em);
+}
+
 
 .rodape i {
     font-size: 3.2rem;
     color: var(--branco);
 }
+
 
 .rodape__navegacao {
     color: var(--branco);

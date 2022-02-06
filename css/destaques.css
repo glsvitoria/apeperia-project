@@ -46,6 +46,10 @@
     margin: 0 auto;
 }
 
+.destaques__botao:hover {
+    background-color: var(--cinza-escuro);
+}
+
 @media screen and (min-width: 1300px) {
     .destaques {
         width: 90vw;
